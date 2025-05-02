@@ -1,0 +1,7 @@
+---
+title: "Inicio"
+---
+
+# Bienvenido
+
+Este es el inicio de mi libro interactivo de series de tiempo usando Python y Quarto.
