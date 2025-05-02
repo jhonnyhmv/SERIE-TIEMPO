@@ -1,0 +1,14 @@
+project:
+  type: book
+
+book:
+  title: "Mi libro de series de tiempo"
+  author: "Tu Nombre"
+  chapters:
+    - index.qmd
+    - 01-introduccion.ipynb
+
+format:
+  html:
+    theme: cosmo
+    number-sections: true
